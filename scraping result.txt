@@ -1,0 +1,5 @@
+﻿h,t,t,p,s,:,/,/,b,u,s,i,n,e,s,s,.,n,i,k,k,e,i,.,c,o,m,/,a,t,c,l,/,g,e,n,/,1,9,/,0,0,1,2,2,/,0,8,0,6,0,0,0,4,0,/,?,n,_,c,i,d,=,n,b,p,d,s,_,t,o,p,3
+h,t,t,p,s,:,/,/,b,u,s,i,n,e,s,s,.,n,i,k,k,e,i,.,c,o,m,/,a,t,c,l,/,g,e,n,/,1,9,/,0,0,0,8,7,/,0,7,3,1,0,0,0,7,2,/,?,n,_,c,i,d,=,n,b,p,d,s,_,t,o,p,3
+h,t,t,p,s,:,/,/,x,t,e,c,h,.,n,i,k,k,e,i,.,c,o,m,/,a,t,c,l,/,n,x,t,/,c,o,l,u,m,n,/,1,8,/,0,0,0,0,1,/,0,4,4,2,6,/,?,n,_,c,i,d,=,n,b,p,d,s,_,t,o,p,3
+h,t,t,p,s,:,/,/,x,t,e,c,h,.,n,i,k,k,e,i,.,c,o,m,/,a,t,c,l,/,n,x,t,/,c,o,l,u,m,n,/,1,8,/,0,0,0,0,1,/,0,4,3,8,4,/,?,n,_,c,i,d,=,n,b,p,d,s,_,t,o,p,3
+https://business.nikkei.com/atcl/gen/19/00122/080600040/?n_cid=nbpds_top3,https://xtech.nikkei.com/atcl/nxt/column/18/00001/04426/?n_cid=nbpds_top3,https://business.nikkei.com/atcl/gen/19/00087/073100072/?n_cid=nbpds_top3,https://xtech.nikkei.com/atcl/nxt/column/18/00001/04384/?n_cid=nbpds_top3

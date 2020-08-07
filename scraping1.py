@@ -15,7 +15,7 @@ class Scraper:
             url = tag.get('href')
             if url is None:
                 continue
-            if 'atcl/news' in url:  # 'atcl/news' を含むURLだけを取り出す条件に変更
+            if 'atcl/' in url:  # 'atcl/news' を含むURLだけを取り出す条件に変更
                 print('\n' + urljoin(self.site, url))  # ドメイン名を含むURLに変換して表示
 
 news = 'https://trendy.nikkeibp.co.jp/news/'  # ニュース取得元サイトを変更
