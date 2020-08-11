@@ -40,3 +40,14 @@ print(state)
 q10="四月の晴れた寒い日で，時計がどれも13時を打っていた．"
 p=q10.index("，")
 print(q10[:p])
+
+a=12
+
+def add13(a):
+    #global a
+    a+=13
+    print(a)
+
+print(a)
+add13(a)
+print(a)

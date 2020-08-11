@@ -11,6 +11,7 @@ class Scraper:
         html = r.read()
         parser = 'html.parser'
         sp = BS(html, parser)
+        with
         for tag in sp.find_all('a'):
             url = tag.get('href')
             if url is None:
